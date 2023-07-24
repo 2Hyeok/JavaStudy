@@ -5,3 +5,13 @@
 
 ### 2일차
 조건, 배열, 반복문(Array.java)
+
+
+### 3일차
+자바의 코드 구조 (ClassAndMethod.java)
+
+실습
+1 부터 10까지의 합(lecture/Sum.java)
+
+구구단(lecture/Gugudan.java)
+
