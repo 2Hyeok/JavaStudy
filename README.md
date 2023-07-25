@@ -4,7 +4,7 @@
 자바의 기초 변수, 데이터 타입(DataType.java)
 
 ### 2일차
-조건, 배열, 반복문(Array.java)
+자바의 조건, 배열, 반복문(Array.java)
 
 
 ### 3일차
@@ -15,3 +15,5 @@
 
 구구단(lecture/Gugudan.java)
 
+### 4일차
+자바의 OOP(객체지향)  (oop package)
