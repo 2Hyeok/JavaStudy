@@ -1,4 +1,4 @@
-package inheritance;
+package oop.inheritance;
 
 public class Parent { // 부모 클래스 생성
 
