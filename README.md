@@ -20,3 +20,6 @@
 
 ### 5일차
 자바의 예외처리 (exception package)
+
+### 6일차
+자바의 GUI, 레이아웃(swing package)
