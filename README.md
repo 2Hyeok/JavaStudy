@@ -32,3 +32,11 @@
 
 ### 9일차
 자바의 람다함수(lamda)
+
+### 10일차
+자바의 메모리 구조
+
+https://spotted-mailbox-af3.notion.site/Java-1d445ce9a23c4848889638a633257b5a?pvs=4
+
+### 11일차
+자바의 컬렉션 - List 인터페이스

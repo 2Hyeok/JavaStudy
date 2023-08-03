@@ -1,0 +1,23 @@
+package Collection;
+
+import java.util.*;
+
+public class CollectionExample {
+
+    public static void main(String[] args) {
+
+        ArrayList arrayList;
+
+        LinkedList linkedList;
+
+        Vector vector;
+
+        Stack stack;
+
+
+        // ---------------------------
+
+
+
+    }
+}
