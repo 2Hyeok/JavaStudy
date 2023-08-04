@@ -14,10 +14,10 @@ public class CollectionExample {
 
         Stack stack;
 
-
         // ---------------------------
 
-
+        Queue queue;
+        PriorityQueue priorityQueue;
 
     }
 }
